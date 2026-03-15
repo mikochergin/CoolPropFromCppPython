@@ -1,3 +1,5 @@
 .vscode/
 build/
 x64/
+projects\CppClientSln\.vs
+projects\CppClientSln\x64
